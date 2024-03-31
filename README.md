@@ -8,7 +8,21 @@
   - Server components: a default in nextjs
   - Client components: add "use client" in component file
 - Routing conventions:
+
   - all routes must be placed inside the app folder
+
+- Ariel key takeaways
+  - /app folder is the new /pages folder for routing in next14
+  - pages.js file is the new index.js in next14
+
+app folder:
+
+- about
+  - page.tsx
+- profile
+  - page.tsx
+- layout.tsx
+- page.tsx
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
