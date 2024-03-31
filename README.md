@@ -1,3 +1,15 @@
+# video resource: https://www.youtube.com/watch?v=ZjAqacIC_3c
+
+# Notes:
+
+- page.tsx replaces children prop in layout.tsx
+- React Server Components: a new architecture introduced in React 18
+- React Server Components introduced 2 types:
+  - Server components: a default in nextjs
+  - Client components: add "use client" in component file
+- Routing conventions:
+  - all routes must be placed inside the app folder
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
