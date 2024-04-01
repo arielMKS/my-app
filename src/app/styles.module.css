@@ -1,0 +1,18 @@
+.foo {
+  border: 2px solid red;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: space-around;
+  background-color: lightgray;
+  height: 2rem;
+  align-items: center;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  background-color: lightgray;
+  width: 100%;
+}

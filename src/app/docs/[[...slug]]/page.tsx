@@ -1,3 +1,5 @@
+import Frame from "@/components/frame/frame";
+
 const Doc = ({
   params,
 }: {
@@ -6,7 +8,7 @@ const Doc = ({
   };
 }) => {
   console.log("Params", params.slug);
-  return <div>Doc</div>;
+  return <Frame>Doc</Frame>;
 };
 
 export default Doc;

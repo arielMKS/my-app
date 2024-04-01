@@ -1,5 +1,7 @@
+import Frame from "@/components/frame/frame";
+
 const ProductList = () => {
-  return <div>Product page</div>;
+  return <Frame>Product page</Frame>;
 };
 
 export default ProductList;

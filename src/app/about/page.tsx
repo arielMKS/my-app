@@ -1,5 +1,7 @@
+import Frame from "@/components/frame/frame";
+
 const About = () => {
-  return <div>About page</div>;
+  return <Frame>About page</Frame>;
 };
 
 export default About;
